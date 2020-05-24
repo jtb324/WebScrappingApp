@@ -1,0 +1,15 @@
+{
+  "name": "webscrapper",
+  "version": "1.0.0",
+  "description": "This is just an app to scrape web services like amazon.",
+  "main": "main.js",
+  "dependencies": {
+    "electron": "^9.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "J.T. Baker",
+  "license": "MIT"
+}
